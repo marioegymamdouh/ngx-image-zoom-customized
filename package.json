@@ -1,0 +1,58 @@
+{
+  "_from": "ngx-image-zoom@0.4.2",
+  "_id": "ngx-image-zoom@0.4.2",
+  "_inBundle": false,
+  "_integrity": "sha512-/HDtVBdotM76d8pRGDa6tMDWFKypC7G+FnpsT7mV1O4hNYjCV1aF0XkM9qyQr3QHL6AxPbLM9gzv00lY2ymHig==",
+  "_location": "/ngx-image-zoom",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "ngx-image-zoom@0.4.2",
+    "name": "ngx-image-zoom",
+    "escapedName": "ngx-image-zoom",
+    "rawSpec": "0.4.2",
+    "saveSpec": null,
+    "fetchSpec": "0.4.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-image-zoom/-/ngx-image-zoom-0.4.2.tgz",
+  "_shasum": "fab5a9c5f687321e65e756697f11134d5fe57c29",
+  "_spec": "ngx-image-zoom@0.4.2",
+  "_where": "C:\\Users\\mario\\PhpstormProjects\\Frontend",
+  "author": {
+    "name": "Mathias Wittlock",
+    "email": "1336118+wittlock@users.noreply.github.com"
+  },
+  "bugs": {
+    "url": "https://www.github.com/wittlock/ngx-image-zoom/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "[![npm version](http://img.shields.io/npm/v/ngx-image-zoom.svg)](https://npmjs.org/package/ngx-image-zoom)",
+  "homepage": "https://github.com/wittlock/ngx-image-zoom#readme",
+  "jsnext:main": "ngx-image-zoom.js",
+  "keywords": [
+    "angular",
+    "angular component",
+    "image zoom"
+  ],
+  "license": "MIT",
+  "main": "ngx-image-zoom.umd.js",
+  "module": "ngx-image-zoom.js",
+  "name": "ngx-image-zoom",
+  "peerDependencies": {
+    "@angular/core": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0",
+    "rxjs": "^5.1.0 || ^6.0.0",
+    "zone.js": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wittlock/ngx-image-zoom.git"
+  },
+  "typings": "ngx-image-zoom.d.ts",
+  "version": "0.4.2"
+}
