@@ -18,10 +18,10 @@
   "bugs": {
     "url": "https://github.com/marioegymamdouh/ngx-image-zoom-customized/issues"
   },
-  "main": "ngx-image-zoom.umd.js",
-  "module": "ngx-image-zoom.js",
-  "jsnext:main": "ngx-image-zoom.js",
-  "typings": "ngx-image-zoom.d.ts",
+  "main": "ngx-image-zoom-customized.umd.js",
+  "module": "ngx-image-zoom-customized.js",
+  "jsnext:main": "ngx-image-zoom-customized.js",
+  "typings": "ngx-image-zoom-customized.d.ts",
   "peerDependencies": {
     "@angular/core": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0",
     "rxjs": "^5.1.0 || ^6.0.0",
